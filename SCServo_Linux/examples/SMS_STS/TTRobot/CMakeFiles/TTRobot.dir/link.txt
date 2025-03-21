@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3 -rdynamic CMakeFiles/TTRobot.dir/TTRobot.cpp.o -o TTRobot   -L/home/nvidia/SCServo_Linux_220329/SCServo_Linux/examples/SMS_STS/TTRobot/../../..  -Wl,-rpath,/home/nvidia/SCServo_Linux_220329/SCServo_Linux/examples/SMS_STS/TTRobot/../../.. -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 
